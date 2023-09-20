@@ -65,7 +65,9 @@ Esse é o resultado da preparação e tratamento feito para análises posteriore
 - Foi separado por Quarters 
 - Foi separado em Mês + Ano 
 - Foi tratado a coluna de endereços por cidade 
+- Foi realizado a estração em CSV da Base tratada para começo da exploração de dados. Nomeada: 'sales_df_tratada'
 
 
+**Exploração de dados do Arquivo tratado Sales_df_tratado**
 - Arquivo de: exploração_de_dados_sales_df 
 
